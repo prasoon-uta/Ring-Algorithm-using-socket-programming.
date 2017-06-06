@@ -1,6 +1,6 @@
 # Ring-Algorithm-using-socket-programming.
 This program is an implementation of Ring election algorithm for electing co-coordinator process.
-Instructions:
+Instructions to run the application:
 1.	Run the program as many times as number of processes required in algorithm (Restricted to max of 9 processes).
 2.	Clicking on the manual election button will start the ring algorithm.
 3.	Elector will update the coordinator to all processes once the election is complete.
